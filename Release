@@ -1,0 +1,29 @@
+Architectures: iphoneos-arm64
+Codename: stable
+Components: main
+Date: Tue, 15 Sep 2026 13:52:38 +0000
+Description: Tweaks by dovi20
+Label: dovi20 repo
+Origin: dovi20 repo
+Suite: stable
+Version: 1.0
+MD5Sum:
+ 041c948f7d815b1b297a5f1764e9f7cd              580 Packages
+ 2795ac440b330ec03c6943fd485b2a9f              446 Packages.bz2
+ ccf65b08b441e44370d929cb22d7e78f              422 Packages.gz
+ 134b6e5a6d171f83bcd5cfc49a72bd79              198 Release
+SHA1:
+ b9f72f18ea749b876ddeca36ed8476a0ce98fc57              580 Packages
+ 5ce22e85fa5ba3fc7c8a2475f284451d275e15bd              446 Packages.bz2
+ 211a216943ab2cbe965691294be5708c0040777e              422 Packages.gz
+ 7d7d56410d64bc0a48eceee86fe6095e45a398ed              198 Release
+SHA256:
+ d2a64fbcdf274733fe46fbc09816d9de529d69ca09bbdc1ac22821bc3c1b5251              580 Packages
+ 8e300c119d90f9ad0444d1134d7cc8ff7c022294c0c5c3cc2b416631537d964d              446 Packages.bz2
+ 639b7766dd1e3101f5b57e18d7b4697661affbe3529a925dcda060af35d23546              422 Packages.gz
+ 2fb015fe6ade6f1b40a8d819bb0eb504b54903706cdedbb6c086087990ff41cb              198 Release
+SHA512:
+ 767d7f2ab62b1cfb684e2b45289c5334bb54211a054fa3e405afe586cf772201acafc1306620fcf34e979f88686a274b85765c7ca506000449f3f213a8b861d1              580 Packages
+ e11e8b831bbc50ce9021207941e73582e20c1e62c73415cf38b968cdf488253b9c3b6261ab6914557ee82e3a382db8dfbda5640ced2365e215ef8540ad3c579b              446 Packages.bz2
+ ea3cdb32c634e31d0216b9d41e551396b992b812f9fe0d33f9127778b39079f7bbe8c894ad4f9258284d5be892b749c98addf95e42588edc70a1467c8273827e              422 Packages.gz
+ cad486fbf8aae6ed4073912f01b29ecf1deda25b7329a6cfbca50b24eda2bfb6de62ebaed39882f5364eda80ce330920186c23607a7f2ee69c33bce0eaa8e61b              198 Release
