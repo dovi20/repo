@@ -1,29 +1,29 @@
 Architectures: iphoneos-arm64
 Codename: stable
 Components: main
-Date: Tue, 15 Sep 2026 13:52:38 +0000
+Date: Wed, 16 Sep 2026 05:02:47 +0000
 Description: Tweaks by dovi20
 Label: dovi20 repo
 Origin: dovi20 repo
 Suite: stable
 Version: 1.0
 MD5Sum:
- 041c948f7d815b1b297a5f1764e9f7cd              580 Packages
- 2795ac440b330ec03c6943fd485b2a9f              446 Packages.bz2
- ccf65b08b441e44370d929cb22d7e78f              422 Packages.gz
- 134b6e5a6d171f83bcd5cfc49a72bd79              198 Release
+ f54ffcc679757bb45cd99c4594fbe289              580 Packages
+ 00f6bf40efb22d2cd03bffb1f5179505              440 Packages.bz2
+ 1e3508416a1ad89efcc4319058162a6a              421 Packages.gz
+ 0c33f1bf77297c03b61f2f40b56c6e12              198 Release
 SHA1:
- b9f72f18ea749b876ddeca36ed8476a0ce98fc57              580 Packages
- 5ce22e85fa5ba3fc7c8a2475f284451d275e15bd              446 Packages.bz2
- 211a216943ab2cbe965691294be5708c0040777e              422 Packages.gz
- 7d7d56410d64bc0a48eceee86fe6095e45a398ed              198 Release
+ b3daccafaed22e72dd2b813ad45a49d4070e9bf7              580 Packages
+ 59ac513d0aad1df303eb7f4946110b4d1ea4d2bb              440 Packages.bz2
+ feb5b6dc48f797f0f1fc761145104ea08480062f              421 Packages.gz
+ c14cb9b55003bcb0fc86cfdcc5c0499ac5297d1e              198 Release
 SHA256:
- d2a64fbcdf274733fe46fbc09816d9de529d69ca09bbdc1ac22821bc3c1b5251              580 Packages
- 8e300c119d90f9ad0444d1134d7cc8ff7c022294c0c5c3cc2b416631537d964d              446 Packages.bz2
- 639b7766dd1e3101f5b57e18d7b4697661affbe3529a925dcda060af35d23546              422 Packages.gz
- 2fb015fe6ade6f1b40a8d819bb0eb504b54903706cdedbb6c086087990ff41cb              198 Release
+ b0acc7c9d0c907a328b2ae3cb2b2bf21b3200153a945708f74c7123edddc9cba              580 Packages
+ 7433027c857fb08e47dbd27a1ba866952d345ef6d61763cab05162534b4314fc              440 Packages.bz2
+ 307712f158452c593a17c96f9c813c5925159a928c7ca0831760447333f72d68              421 Packages.gz
+ 8d4d057ff21447ac4f9d0deedb999d2a18976b5631f8f408ee040f3d1d337f5c              198 Release
 SHA512:
- 767d7f2ab62b1cfb684e2b45289c5334bb54211a054fa3e405afe586cf772201acafc1306620fcf34e979f88686a274b85765c7ca506000449f3f213a8b861d1              580 Packages
- e11e8b831bbc50ce9021207941e73582e20c1e62c73415cf38b968cdf488253b9c3b6261ab6914557ee82e3a382db8dfbda5640ced2365e215ef8540ad3c579b              446 Packages.bz2
- ea3cdb32c634e31d0216b9d41e551396b992b812f9fe0d33f9127778b39079f7bbe8c894ad4f9258284d5be892b749c98addf95e42588edc70a1467c8273827e              422 Packages.gz
- cad486fbf8aae6ed4073912f01b29ecf1deda25b7329a6cfbca50b24eda2bfb6de62ebaed39882f5364eda80ce330920186c23607a7f2ee69c33bce0eaa8e61b              198 Release
+ e608a2a449d2e56d5fca73398b76cc266c91b184197ee1431c1657dce0d64e358dc134e4aaba5def08024365a028d13a2c890be992ab013123fa0e5ec19062ce              580 Packages
+ 1f4d9f73fc46b529d7e12cf82f78b0cc58db6e2c8156b1a5a6de17bdfc336bdc870656dd7429b176ea3babf1e0d56adc037752d6e822fb4c07a191693afad4f6              440 Packages.bz2
+ 8d3ef74f3ae560f608f8b793e04d1ccec75d1564700a3ff7370aa08f7f215292716e3c677605adcf13b6a601d61c6aec20dc476d69b457403f307de619d5df07              421 Packages.gz
+ d9dd487fe59b5e61b164550bd6ae29f51fc41e6d418a7c65509ed0ba67fcd7ce0a5c0ffb8e920cf1f47ddf0e1aa99380830984da2de0192f587717296fbaa74d              198 Release

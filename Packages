@@ -1,14 +1,14 @@
 Package: com.dovi20.mecallerid
-Version: 1.0.0-1
+Version: 1.0.1-1
 Architecture: iphoneos-arm64
 Maintainer: dovi20
-Installed-Size: 584
+Installed-Size: 624
 Depends: mobilesubstrate, preferenceloader
-Filename: https://github.com/dovi20/debs/releases/download/mecallerid-1.0.0/MeCallerID-1.0.0.deb
-Size: 18242
-MD5sum: d4867ecfb5c32670ae8b1389459c87de
-SHA1: f9080f67cc123055d8403b0da4951809139d561f
-SHA256: 168906b05d33d3a8947fb7ee62f7023da63e473b3e56e8aedd26f75b4c2e052b
+Filename: https://github.com/dovi20/debs/releases/download/mecallerid-1.0.1/MeCallerID-1.0.1.deb
+Size: 47716
+MD5sum: 2063ef58f155095e1a0c13e53716cde2
+SHA1: 4ff308639050a73dfe63b16f247853a56b7355ed
+SHA256: 0016086f64f0984a88eb0dd5375aa53b2caf29b7ab6e0946749dab8739e31cba
 Section: Tweaks
 Description: Real-time caller identification from the Me app database, on incoming and outgoing calls
 Author: dovi20
